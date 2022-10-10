@@ -6,7 +6,6 @@ on:
       - master
 
 jobs:
-  artifacts:
   build:
     runs-on: ubuntu-latest
     steps:
